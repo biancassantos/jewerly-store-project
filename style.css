@@ -5,6 +5,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+    height: 100vh;
+}
+
 header {
     padding: 3rem 0rem;
 }
@@ -201,8 +205,6 @@ footer {
     color: #fff;
     padding: 1rem 2rem;
     font-size: .6rem;
-    position: fixed;
-    bottom: 0;
 }
 
 footer img {
