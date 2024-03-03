@@ -249,6 +249,8 @@ footer img {
 
     footer {
         font-size: .7rem;
+        position: relative;
+        bottom: 0px;
     }
 
     footer img {
