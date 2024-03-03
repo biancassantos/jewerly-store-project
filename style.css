@@ -201,6 +201,8 @@ footer {
     color: #fff;
     padding: 1rem 2rem;
     font-size: .6rem;
+    position: fixed;
+    bottom: 0;
 }
 
 footer img {
