@@ -61,7 +61,7 @@ main {
 
 .promo {
     background-color: #000;
-    height: 430px;
+    height: 450px;
     background-image: url("img/promo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -215,7 +215,7 @@ footer img {
 
 @media screen and (min-width: 750px) {
     header {
-        padding: 3rem 2rem;
+        padding: 2rem;
     }
 
     header img {
@@ -227,7 +227,7 @@ footer img {
     }
 
     .promo {
-        height: 500px;
+        height: 550px;
     }
 
     .promo-text h1 {
